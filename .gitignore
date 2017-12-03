@@ -25,3 +25,5 @@ _testmain.go
 
 # main executable on linux
 terraform-provider-ldap
+
+/dist
